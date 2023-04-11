@@ -1,3 +1,2 @@
 # fastapi-jwt
-Study FastAPI 
-Not finised
+Study FastAPI, not finised
